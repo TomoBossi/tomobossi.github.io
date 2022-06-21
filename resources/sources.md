@@ -16,7 +16,7 @@
 
 150306OyasumiPunpun.png
 
-150520Halcy.png
+150520Halcy.png imgur.com/a/Mh0Hi9D
 
 150520RedDrum.png
 
@@ -30,19 +30,19 @@
 
 150705ECO.png
 
-150905SpilledOil.png
+150905SpilledOil.png imgur.com/a/4akJMpQ
 
 150925Aqueduct.png
 
-161016Shinjo.png
+161016Shinjo.png imgur.com/a/nsvdAKI
 
-161018VHSAIS.png
+161018VHSAIS.png 
 
 161022Teratoma.png
 
-161104Plantae.png
+161104Plantae.png imgur.com/a/55TQuI8
 
-161105WaterlordPlus.png
+161105WaterlordPlus.png imgur.com/a/aGGpYgP
 
 170211Oxigeno.png
 
@@ -70,13 +70,13 @@
 
 180212Watashi.png
 
-180414Careta.png
+180414Careta.png imgur.com/a/sv7V8Nd
 
 180414ZuccmetalMememist.png
 
-180421AmalgamaCuarzo.png
+180421AmalgamaCuarzo.png imgur.com/a/qqSGGqc
 
-180421AmalgamaCuarzoAlt.png
+180421AmalgamaCuarzoAlt.png imgur.com/a/qqSGGqc
 
 180610FireYokai.png
 
@@ -86,9 +86,9 @@
 
 200307ZimaBlue.png
 
-200321RWRW.png
+200321RWRW.png editor.p5js.org/TomoBossi/sketches/822eI0DqX
 
-200323PerpetualQuarantineAtTheModernArtMuseum.png
+200323PerpetualQuarantineAtTheModernArtMuseum.png editor.p5js.org/TomoBossi/sketches/I-acDag7H, editor.p5js.org/TomoBossi/sketches/F7GTUPzgd
 
 200420Void.jpg
 
