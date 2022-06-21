@@ -1,5 +1,5 @@
 layout: page
 title: "Visual"
-permalink: /art/visual/
+permalink: /visual/
 
 WIP
