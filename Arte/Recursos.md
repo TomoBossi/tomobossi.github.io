@@ -46,7 +46,7 @@ src: GitHub
 
 201610222460 Teratoma.png
 
-201611042460Plantae.png imgur.com/a/55TQuI8
+201611042460 Plantae.png imgur.com/a/55TQuI8
 
 201611052460 WaterlordPlus.png imgur.com/a/aGGpYgP
 
