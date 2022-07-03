@@ -113,5 +113,3 @@ src: GitHub
 202108102460 Mirror.png
 
 202201192460 CumTheatre.png
-
-202204212460 Hisoka.png tomobossi.github.io/ArMatrix/
