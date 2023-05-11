@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+}
+
+h3, a {
+  font-family: 'Courier New', Courier, monospace;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+h3 {
+  font-size: xx-large;
+  color: whitesmoke;
+  font-weight: bolder;
+}
+
+a {
+  font-size: x-large;
+  color: aqua;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
