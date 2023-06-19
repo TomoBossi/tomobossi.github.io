@@ -1,9 +1,11 @@
 :root {
   --scale: 6vw;
+  font-weight: normal;
 }
 @media (max-aspect-ratio: 1/1) {
   :root {
     --scale: 10vh;
+    font-weight: bolder;
   }
 }
 
