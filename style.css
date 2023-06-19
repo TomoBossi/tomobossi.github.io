@@ -1,21 +1,30 @@
+:root {
+  --scale: 6vw;
+}
+@media (max-aspect-ratio: 1/1) {
+  :root {
+    --scale: 10vh;
+  }
+}
+
 body {
   background-color: black;
 }
 
 h3, a {
   font-family: 'Courier New', Courier, monospace;
-  margin-top: 2vw;
-  margin-left: 2vw;
+  margin-top: calc(var(--scale)*0.2);
+  margin-left: calc(var(--scale)*0.2);
 }
 
 h3 {
-  font-size: 6vw;
+  font-size: var(--scale);
   color: whitesmoke;
   font-weight: bolder;
 }
 
 a {
-  font-size: 5vw;
+  font-size: calc(var(--scale)*0.8);
   color: aqua;
   text-decoration: none;
 }
