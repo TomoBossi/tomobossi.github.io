@@ -4,29 +4,27 @@
 }
 @media (max-aspect-ratio: 1/1) {
   :root {
-    --scale: 10vh;
-    font-weight: bolder;
+    --scale: 5vh;
   }
 }
 
-body {
+html, body {
   background-color: black;
+  margin: 1em 0 0 1.5em;
+  padding: 0;
 }
 
-h3, a {
+p, a {
   font-family: 'Courier New', Courier, monospace;
-  margin-top: calc(var(--scale)*0.2);
-  margin-left: calc(var(--scale)*0.2);
+  font-size: calc(var(--scale)*0.7);
+  white-space: pre;
 }
 
-h3 {
-  font-size: var(--scale);
+p {
   color: whitesmoke;
-  font-weight: bolder;
 }
 
 a {
-  font-size: calc(var(--scale)*0.8);
   color: aqua;
   text-decoration: none;
 }
