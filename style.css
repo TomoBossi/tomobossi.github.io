@@ -16,7 +16,7 @@ html, body {
 
 p, a {
   font-family: 'Courier New', Courier, monospace;
-  font-size: calc(var(--scale)*0.7);
+  font-size: calc(var(--scale)*0.6);
   white-space: pre;
 }
 
